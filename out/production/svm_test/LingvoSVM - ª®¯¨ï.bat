@@ -1,0 +1,2 @@
+java -Xmx1024m -classpath .;lib/jnisvmlight.jar -Djava.library.path=lib LingvoSVM traintest myfeature.txt reviews_pos_train.txt reviews_neg_train.txt reviews_pos_test.txt reviews_neg_test.txt files/stop.txt 
+pause
