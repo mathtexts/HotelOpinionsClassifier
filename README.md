@@ -6,7 +6,7 @@ Hotel opinions svm classifier by Karo Astabatsian, supervised by Dr Mstislav Mas
 This is a project for the "Mathematical methods for text analysis" course in spring 2013 in MSU. 
 
 Kindly refer to:
-- report_Kosyrev_authority.pdf
+- report1.pdf
 - vk.com/mathtexts -> achievements of listeners (http://vk.com/topic-50553132_28815796)
 
 
