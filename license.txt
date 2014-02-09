@@ -1,8 +1,3 @@
-
-License
-=======
-
-  
    (C) Copyright 2014 Moscow State University.
 
    All rights reserved. This program and the accompanying materials
