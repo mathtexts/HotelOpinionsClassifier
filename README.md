@@ -3,7 +3,7 @@ HotelOpinionsClassifier
 
 Hotel opinions svm classifier by Karo Astabatsian, supervised by Dr Mstislav Maslennikov
 
-Nickname: anOpinion 13
+Nickname: AnOpinion 13
 
 This is a project for the "Mathematical methods for text analysis" course in spring 2013 in MSU. 
 
